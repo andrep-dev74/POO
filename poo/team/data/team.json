@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Alex Morgan",
+    "position": "Frontend Developer",
+    "department": "Development",
+    "available": true
+  },
+  {
+    "name": "Jamie Lee",
+    "position": "UX Designer",
+    "department": "Design",
+    "available": false
+  },
+  {
+    "name": "Sam Taylor",
+    "position": "Backend Developer",
+    "department": "Development",
+    "available": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "text": "Review the project requirements",
+    "category": "Work",
+    "completed": false
+  },
+  {
+    "text": "Buy groceries",
+    "category": "Personal",
+    "completed": false
+  },
+  {
+    "text": "Send the weekly report",
+    "category": "Work",
+    "completed": true
+  }
+]
